@@ -1,0 +1,33 @@
+body {background-color: rgb(145, 9, 9);}
+
+
+h1 {color: midnightblue;}
+h2 {color: black;}
+h3 {color: darkgrey;}
+
+#estilista {width: 25%;}
+#lookum {width: 25%;}
+#lookdois {width: 25%;}
+#looktres {width: 25%;}
+#lookquatro {width: 25%;}
+#lookcinco {width: 25%;}
+#lookseis {width: 25%;}
+
+#estilista {margin-left: 34%;}
+#lookum {margin-left: 20%;}
+#lookdois {margin-left: 10%;}
+#looktres {margin-left: 15%;}
+#lookquatro {margin-left: 10%;}
+#lookcinco {margin-left: 20%;}
+#lookseis {margin-left: 10%;}
+
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+
+h1 {font-size: 250%;}
+h2 {font-size: 190%;}
+H3 {font-size: 150%;}
+
